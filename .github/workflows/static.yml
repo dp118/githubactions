@@ -6,7 +6,6 @@ on:
   push:
     branches: ["Lab5"]
 
-
 jobs:
   # Single deploy job since we're just deploying
   web-deploy:
